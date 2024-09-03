@@ -1,5 +1,3 @@
----
-
 # TailwindMasterpiece 🎨
 
 Welcome to **TailwindMasterpiece**, a modern and sleek project that showcases the power and flexibility of Tailwind CSS. This project is a testament to creating visually stunning web experiences with minimal effort, leveraging Tailwind's utility-first approach.
