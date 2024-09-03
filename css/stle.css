@@ -1,0 +1,20 @@
+/* styles.css */
+
+/* Custom Shadows */
+.custom-shadow {
+  box-shadow: 0 10px 15px rgba(0, 0, 0, 0.1);
+}
+
+/* Hero Section Background Overlay */
+.hero-overlay {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+/* Additional hover effects for portfolio items */
+.portfolio-item:hover .portfolio-title {
+  color: #2563EB; /* Tailwind's blue-600 */
+}
+
+.portfolio-item:hover .portfolio-description {
+  color: #374151; /* Tailwind's gray-700 */
+}
